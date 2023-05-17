@@ -1,0 +1,36 @@
+body{
+    background-color: greenyellow;
+}
+
+.h1{
+    font-family:'Oswald',sans-serif ;
+    background-color:blue;
+    color: blue;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#score{
+    font-size: 50px;
+    font-family:'Oswald',sans-serif ;
+    margin-left:5px;
+}   
+
+#timer{
+    float: right;
+    font-size: 50px;
+    font-family:'Oswald',sans-serif ;
+    margin-left:5px; 
+}
+
+p{
+    font-size: 50px;
+    font-family:'Oswald',sans-serif ;
+    color: black; 
+}
+
+#sketch_to_be_drawn{
+    color:red;
+}
